@@ -20,7 +20,7 @@ O enunciado completo do exercício está disponível [aqui](ep2%20ENUNCIADO.pdf)
 Para facilitar os testes, disponibilizei um arquivo compactado com diversas entradas. Você pode baixá-lo [aqui](entradas_compactadas.zip).
 
 ## Arquivo Compactado com Saídas
-Para facilitar os testes, disponibilizei um arquivo compactado com diversas saídas esperadas. Você pode baixá-lo [aqui](testesSaidas.zip).
+Para facilitar os testes, disponibilizei um arquivo compactado com diversas saídas esperadas. Você pode baixá-lo [aqui](testesSaida.zip).
 
 ## Como Executar
 
