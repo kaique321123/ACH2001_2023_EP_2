@@ -15,20 +15,11 @@ Segue a lógica de campeonatos onde a vitória garante 3 pontos, derrota 0 ponto
 O enunciado completo do exercício está disponível [aqui](ep2%20ENUNCIADO.pdf). Ele inclui instruções detalhadas sobre os requisitos e a lógica do programa.
 
 ## Testes e Entradas
-
-*Exemplo de saída para a Liga Premier*
-![Liga Premier](premier.jpg)
-
-
-*Exemplo de saída para a Liga Russa*
-![Descrição da imagem](russo.jpg)
-
-
 ## Arquivo Compactado com Entradas
 
 Para facilitar os testes, disponibilizei um arquivo compactado com diversas entradas. Você pode baixá-lo [aqui](entradas_compactadas.zip).
 
-## Arquivo Compactado com Entradas
+## Arquivo Compactado com Saídas
 Para facilitar os testes, disponibilizei um arquivo compactado com diversas saídas esperadas. Você pode baixá-lo [aqui](testesSaidas.zip).
 
 ## Como Executar
