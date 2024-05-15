@@ -1,21 +1,40 @@
-# Segundo-Programa-em-C
+
+
+
+# Segundo Programa em C: Organizador de Campeonatos
+
+Olá!!
 
 Estou no primeiro ano da faculdade de Sistemas de Informação na USP e esse foi meu segundo trabalho para disciplina de Introdução a Programação.
 Eu disponibilizei o enunciado do exercício para ser possível testar seus conhecimentos em C e fazer o programa, após a execução do programa ele salva os resultados em um arquivo.
-Basicamente nesse trabalho vários times seriam inseridos e deveria ter a criação de uma tabela com os tipos organizados em ordem decrescente pelos Pontos Ganhos e caso ocorresse empate seria feito pelo Saldo de Gols.
+O programa lida com a entrada de vários times e cria uma tabela classificatória ordenada por pontos ganhos, com desempate feito pelo saldo de gols.
 Segue a lógica de campeonatos onde a vitória garante 3 pontos, derrota 0 pontos e empate 1 ponto.
 
-Há muitas entradas disponíveis para teste e eu disponibilizeis elas em um arquivo compactado.
-Aqui o arquivo do enunciado:
-[Link para o PDF QUE CONTÉM O ENUNCIADO do EP2](ep2%20ENUNCIADO.pdf)
+## Enunciado do Exercício
 
-Mostrei dois exemplos de saída o primeiro teste foi com a Liga Premier e o segundo teste é com a Liga Russa.
+O enunciado completo do exercício está disponível [aqui](ep2%20ENUNCIADO.pdf). Ele inclui instruções detalhadas sobre os requisitos e a lógica do programa.
 
-Liga Premier
+## Testes e Entradas
 
+*Exemplo de saída para a Liga Premier*
 ![Liga Premier](premier.jpg)
 
-Liga Russa
 
+*Exemplo de saída para a Liga Russa*
 ![Descrição da imagem](russo.jpg)
 
+
+## Arquivo Compactado com Entradas
+
+Para facilitar os testes, disponibilizei um arquivo compactado com diversas entradas. Você pode baixá-lo [aqui](entradas_compactadas.zip).
+
+## Arquivo Compactado com Entradas
+Para facilitar os testes, disponibilizei um arquivo compactado com diversas saídas esperadas. Você pode baixá-lo [aqui](testesSaidas.zip).
+
+## Como Executar
+
+Para compilar e executar o programa, basta utilizar um compilador C como GCC:
+
+```bash
+gcc -o ep2 ep2.c
+./ep2.exe
